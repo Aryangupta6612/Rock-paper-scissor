@@ -1,0 +1,3 @@
+Welcome to git practical class
+today we will learn basics of git
+Thank you
